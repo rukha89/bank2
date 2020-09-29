@@ -4,6 +4,7 @@ type Money int64
 
 type Currency string
 
+
 //Коды валют
 const (
 	TJS Currency = "TJS"
